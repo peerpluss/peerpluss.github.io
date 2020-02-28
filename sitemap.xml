@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://peerpluss.github.io/posts/posts/</loc>
+  </url>
+  
+  <url>
     <loc>https://peerpluss.github.io/landing/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -41,6 +45,10 @@
   </url>
   
   <url>
+    <loc>https://peerpluss.github.io/authors/admin3/</loc>
+  </url>
+  
+  <url>
     <loc>https://peerpluss.github.io/authors/</loc>
   </url>
   
@@ -49,7 +57,7 @@
   </url>
   
   <url>
-    <loc>https://peerpluss.github.io/post/</loc>
+    <loc>https://peerpluss.github.io/posts/</loc>
   </url>
   
   <url>
