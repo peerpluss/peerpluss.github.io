@@ -2,8 +2,8 @@
   "name": "Peerplus",
   "short_name": "Peerplus",
   "lang": "en-us",
-  "theme_color": "#4caf50",
-  "background_color": "#4caf50",
+  "theme_color": "#FFD51C",
+  "background_color": "#FFD51C",
   "icons": [{
     "src": "/images/icon_huf574f6406e711955f46ab4846c817855_24243_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
