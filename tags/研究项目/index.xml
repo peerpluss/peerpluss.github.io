@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究项目 | Peerplus</title>
+    <link>https://peerpluss.github.io/tags/%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE/</link>
+      <atom:link href="https://peerpluss.github.io/tags/%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <description>研究项目</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2020 18:48:13 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>研究项目</title>
+      <link>https://peerpluss.github.io/tags/%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE/</link>
+    </image>
+    
+    <item>
+      <title>YAU 丘成桐大奖</title>
+      <link>https://peerpluss.github.io/project/yau/</link>
+      <pubDate>Tue, 24 Mar 2020 18:48:13 +0800</pubDate>
+      <guid>https://peerpluss.github.io/project/yau/</guid>
+      <description>&lt;h2 id=&#34;丘成桐简介&#34;&gt;丘成桐简介&lt;/h2&gt;
+&lt;p&gt;中国的“ISEF英特尔天才奖”
+历经十一年，丘成桐中学科学奖已形成以科学为总体框架，以数学、物理、化学、生物、计算机、经济金融建模六大学科为基础的中学生科研创新能力培养模式。累计1500余所学校，7300余支队伍参加比赛，覆盖国内28个省市自治区和北美、新加坡等多个海外地区。共230个学生团队的482人受到奖励。240余位来自全球的科学家担任评委或顾问。超过1/2的获奖中学生经推荐分别进入清华、北大、哈佛、MIT、耶鲁和普林斯顿等中外知名大学就读，其中不乏进入理想大学后依然坚持学术研究的科研人才。
+自2013年起，清华大学将丘成桐中学科学奖纳入自主招生体系，支持各相关院系对优秀获奖学生进行考核，成绩合格的学生将获得推荐参加清华大学自主招生的资格，有机会享受在高考录取中最高降至一本线录取的优惠政策。2016年起，复旦大学将丘成桐中学科学奖的获奖选手纳入自主招生计划&lt;/p&gt;
+&lt;h2 id=&#34;peerplus经验&#34;&gt;Peerplus经验&lt;/h2&gt;
+&lt;p&gt;Oscar： 丘成桐真的可以很好的比喻为中国地区的ISEF/Google Science Fair。当然，相对于英特尔大奖，丘成桐更加偏向于科研方面。对于尖端/研究领域的要求极高。如果入围半决赛/决赛，将面临的是国家知名大学教授/院长的提问和刁难。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Youthmaker</title>
+      <link>https://peerpluss.github.io/project/youthmaker/</link>
+      <pubDate>Tue, 24 Mar 2020 18:48:13 +0800</pubDate>
+      <guid>https://peerpluss.github.io/project/youthmaker/</guid>
+      <description>&lt;h2 id=&#34;youthmaker简介&#34;&gt;Youthmaker简介&lt;/h2&gt;
+&lt;p&gt;YouthMaker“少年创客”科技挑战赛（英文，YouthMaker Technology&amp;amp; Science Fair，下称“竞赛”）是一场集科学研讨、科学竞赛、文化交流和教育论坛为一体的国际化科技创新赛事。活动自发起以来，受到麻省理工原子与比特中心Fab Lab项目、斯坦福Digital Vision项目、卡内基梅隆机器人学院的多方支持，邀请海内外创客和专家教授实践创客精神，探讨创客教育理念。活动鼓励青少年参与工程设计、项目实践及科学实验，完成具备原创性与社会价值的科技、科研项目。自2017年首届竞赛亮相以来，竞赛吸引海内外超2000名学子的关注与参与，提交项目超过500项，邀请马尔奖获得者，卡内基梅隆机器人学院院长，FabFoundation 与Fab Lab 项目联合创始人，密涅瓦大学计算科学院院长、中国长江学者等担任专家评委。过往获奖学生经推荐录取麻省理工大学、斯坦福大学、芝加哥大学等多所美国高等院校。2019年YouthMaker少年创客竞赛将面向全球12-19周岁开放，将采取多样的参与方式，为青少年创客提供一个公开、开放的国际创客精神践行平台。&lt;/p&gt;
+&lt;h2 id=&#34;peerplus经验&#34;&gt;Peerplus经验&lt;/h2&gt;
+&lt;p&gt;Oscar: Youthmaker作为一个小众的科创比赛真的诚意十足，邀请到的两位评委分别是CMU的终身教授（作为唯一科研人士参加NFL中场秀的教授！！！）与Principal Investigator for Carnegie Mellon&amp;rsquo;s DOE High Energy Theory grant，NASA大牛。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>获奖研究：基于上下文的图像彩色化算法</title>
+      <link>https://peerpluss.github.io/project/image/</link>
+      <pubDate>Tue, 24 Mar 2020 18:48:13 +0800</pubDate>
+      <guid>https://peerpluss.github.io/project/image/</guid>
+      <description>&lt;h2 id=&#34;论文摘要&#34;&gt;论文摘要&lt;/h2&gt;
+&lt;p&gt;将灰度图像转化成彩色图像， 它是一个“病态”的过程，目前，主要方法是基于字典，深度卷积神经网（DCNN） 等算法和基于人工交互的半自动方式[1-5]。本文针对现有彩色化算法存在的缺陷，如半自动算法过于需要人力资源， 基于机器学习的自动算法则在计算成本和计算时间上过高等进行了问题的解决。本文在机器学习的基础上,提出了基 于邻域的上下文信息对图像进行训练得到“亮度-灰度-LBP-NLBP”统计人像生成模型；然后利用灰度值，1阶，2阶上 下文的约束求解目标灰色图像像素，对图像进行着色。与已有方法相比，本文在相当快的时间内使用较少的数据资源 且全自动化的实现了一个信服的彩色化的结果，针对人像，本文的着色效果更加自然，具有很好的真实性。综上所述， 本文通过对图像处理的深入研究，将基于局部二值模式的特征应用在图像颜色重构领域，取得了良好的效果，可望在 图像处理这块领域获得广泛的应用。&lt;/p&gt;
+&lt;h2 id=&#34;peerplus经验&#34;&gt;Peerplus经验&lt;/h2&gt;
+&lt;p&gt;Oscar: 科研对我来说是一个平台，能分享我对于特定领域知识的发现。这种standing on giant&amp;rsquo;s shoulder and be able to share my new insights with some of the brightest minds in the world的感觉是一般活动所无法体验的。在peer-review的过程中能与教授/同行的交流过程也让我受益深浅。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

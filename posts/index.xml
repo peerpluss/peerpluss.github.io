@@ -5,7 +5,7 @@
     <link>https://peerpluss.github.io/posts/</link>
       <atom:link href="https://peerpluss.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Mar 2020 19:31:18 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
@@ -17,6 +17,14 @@
       <link>https://peerpluss.github.io/posts/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peerpluss.github.io/posts/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://peerpluss.github.io/posts/example/</link>
+      <pubDate>Sun, 22 Mar 2020 19:31:18 +0800</pubDate>
+      <guid>https://peerpluss.github.io/posts/example/</guid>
       <description></description>
     </item>
     
