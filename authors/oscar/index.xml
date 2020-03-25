@@ -5,12 +5,32 @@
     <link>https://peerpluss.github.io/authors/oscar/</link>
       <atom:link href="https://peerpluss.github.io/authors/oscar/index.xml" rel="self" type="application/rss+xml" />
     <description>Peerplus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2020 18:48:13 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Mar 2020 02:22:13 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Peerplus</title>
       <link>https://peerpluss.github.io/authors/oscar/</link>
     </image>
+    
+    <item>
+      <title>Firsttalk</title>
+      <link>https://peerpluss.github.io/talk/firsttalk/</link>
+      <pubDate>Thu, 26 Mar 2020 02:22:13 +0800</pubDate>
+      <guid>https://peerpluss.github.io/talk/firsttalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biendata</title>
+      <link>https://peerpluss.github.io/project/biendata/</link>
+      <pubDate>Tue, 24 Mar 2020 18:48:13 +0800</pubDate>
+      <guid>https://peerpluss.github.io/project/biendata/</guid>
+      <description>&lt;h2 id=&#34;biendata简介&#34;&gt;Biendata简介&lt;/h2&gt;
+&lt;p&gt;Biendata.com is a platform for providing data science competitions to meet different enterprises and organizations needs. We are committed to helping you solve challenging data related problems in order to make your business more smart.&lt;/p&gt;
+&lt;h2 id=&#34;peerplus经验&#34;&gt;Peerplus经验&lt;/h2&gt;
+&lt;p&gt;Edison ： 含金量较高，平台上有许多不同种类的AI竞赛，可以挑选自己感兴趣的参加。主要是面向大学生，但是高中生也可以参加。奖金很多，得奖相对于Kaggle要容易，值得尝试。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CCTV希望之星</title>
@@ -135,6 +155,26 @@ Session III
 &lt;p&gt;将灰度图像转化成彩色图像， 它是一个“病态”的过程，目前，主要方法是基于字典，深度卷积神经网（DCNN） 等算法和基于人工交互的半自动方式[1-5]。本文针对现有彩色化算法存在的缺陷，如半自动算法过于需要人力资源， 基于机器学习的自动算法则在计算成本和计算时间上过高等进行了问题的解决。本文在机器学习的基础上,提出了基 于邻域的上下文信息对图像进行训练得到“亮度-灰度-LBP-NLBP”统计人像生成模型；然后利用灰度值，1阶，2阶上 下文的约束求解目标灰色图像像素，对图像进行着色。与已有方法相比，本文在相当快的时间内使用较少的数据资源 且全自动化的实现了一个信服的彩色化的结果，针对人像，本文的着色效果更加自然，具有很好的真实性。综上所述， 本文通过对图像处理的深入研究，将基于局部二值模式的特征应用在图像颜色重构领域，取得了良好的效果，可望在 图像处理这块领域获得广泛的应用。&lt;/p&gt;
 &lt;h2 id=&#34;peerplus经验&#34;&gt;Peerplus经验&lt;/h2&gt;
 &lt;p&gt;Oscar: 科研对我来说是一个平台，能分享我对于特定领域知识的发现。这种standing on giant&amp;rsquo;s shoulder and be able to share my new insights with some of the brightest minds in the world的感觉是一般活动所无法体验的。在peer-review的过程中能与教授/同行的交流过程也让我受益深浅。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2020春季报名</title>
+      <link>https://peerpluss.github.io/publication/application/</link>
+      <pubDate>Sun, 22 Mar 2020 19:38:12 +0800</pubDate>
+      <guid>https://peerpluss.github.io/publication/application/</guid>
+      <description>&lt;p&gt;同学录Peerplus在寻找这样的你：不一定已经有许多成就，却对未来有坚定的目标和信念；不一定是全面发展的学霸，却有自己的热爱和坚持；不一定善于表达，却有自己的观点和创意&amp;hellip;&amp;hellip;
+为了让导师们进一步认识你，并确认你是我们要找的潜力股，请有意者进入下方链接填写申请。
+我们将从所有申请者中择优录取，录取者中还将会诞生三位获得免费长期活动规划服务的学员。
+还在等什么？APPLY NOW！&lt;/p&gt;
+&lt;p&gt;基本要求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;提交P+文案&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;听说读写达到基本水平&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;对于一个领域有独特的兴趣/具有强烈好奇心&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;能每周投入3-6 hours (school year term)小时&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;截止日期2020年4月11日，详见附件。&lt;/p&gt;
 </description>
     </item>
     

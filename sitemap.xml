@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://peerpluss.github.io/posts/posts/</loc>
+    <loc>https://peerpluss.github.io/authors/katherine/</loc>
+    <lastmod>2020-03-26T02:22:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/authors/oscar/</loc>
+    <lastmod>2020-03-26T02:22:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/authors/</loc>
+    <lastmod>2020-03-26T02:22:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/talk/firsttalk/</loc>
+    <lastmod>2020-03-26T02:22:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/talk/</loc>
+    <lastmod>2020-03-26T02:22:13+08:00</lastmod>
   </url>
   
   <url>
@@ -12,17 +33,17 @@
   </url>
   
   <url>
-    <loc>https://peerpluss.github.io/authors/katherine/</loc>
+    <loc>https://peerpluss.github.io/project/amc/</loc>
     <lastmod>2020-03-24T18:48:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peerpluss.github.io/authors/oscar/</loc>
+    <loc>https://peerpluss.github.io/project/biendata/</loc>
     <lastmod>2020-03-24T18:48:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peerpluss.github.io/authors/</loc>
+    <loc>https://peerpluss.github.io/project/bpho/</loc>
     <lastmod>2020-03-24T18:48:13+08:00</lastmod>
   </url>
   
@@ -38,6 +59,11 @@
   
   <url>
     <loc>https://peerpluss.github.io/project/jea-media-review/</loc>
+    <lastmod>2020-03-24T18:48:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/project/kaggle/</loc>
     <lastmod>2020-03-24T18:48:13+08:00</lastmod>
   </url>
   
@@ -58,6 +84,11 @@
   
   <url>
     <loc>https://peerpluss.github.io/project/quillscroll/</loc>
+    <lastmod>2020-03-24T18:48:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/project/robomaster/</loc>
     <lastmod>2020-03-24T18:48:13+08:00</lastmod>
   </url>
   
@@ -102,6 +133,11 @@
   </url>
   
   <url>
+    <loc>https://peerpluss.github.io/project/ccc/</loc>
+    <lastmod>2020-03-24T18:48:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://peerpluss.github.io/tags/%E5%AD%A6%E6%9C%AF%E7%AB%9E%E8%B5%9B/</loc>
     <lastmod>2020-03-24T18:48:13+08:00</lastmod>
   </url>
@@ -142,12 +178,12 @@
   </url>
   
   <url>
-    <loc>https://peerpluss.github.io/publication_types/0/</loc>
+    <loc>https://peerpluss.github.io/publication_types/2/</loc>
     <lastmod>2020-03-22T19:38:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peerpluss.github.io/publication/nothing/</loc>
+    <loc>https://peerpluss.github.io/publication/application/</loc>
     <lastmod>2020-03-22T19:38:12+08:00</lastmod>
   </url>
   
@@ -162,13 +198,28 @@
   </url>
   
   <url>
-    <loc>https://peerpluss.github.io/posts/example/</loc>
-    <lastmod>2020-03-22T19:31:18+08:00</lastmod>
+    <loc>https://peerpluss.github.io/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2020-03-22T19:38:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://peerpluss.github.io/posts/</loc>
     <lastmod>2020-03-22T19:31:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/posts/why-us/</loc>
+    <lastmod>2020-03-22T19:31:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/tags/%E5%AE%A3%E5%8F%91/</loc>
+    <lastmod>2020-03-22T19:31:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/posts/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -197,11 +248,32 @@
   </url>
   
   <url>
-    <loc>https://peerpluss.github.io/project/apec/</loc>
+    <loc>https://peerpluss.github.io/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/posts/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://peerpluss.github.io/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://peerpluss.github.io/project/apec/</loc>
   </url>
   
   <url>
@@ -210,10 +282,6 @@
   
   <url>
     <loc>https://peerpluss.github.io/project/himcm/</loc>
-  </url>
-  
-  <url>
-    <loc>https://peerpluss.github.io/talk/</loc>
   </url>
   
   <url>
